@@ -1,4 +1,4 @@
-# Web API IV Challenge
+# Web API IV Challenge Brought to you by Andrew Dillon
 
 In this challenge, you will **deploy** an API of your choosing to `heroku`.
 
